@@ -1,5 +1,5 @@
 {
-    "name": "minderest/twig-stack-extension",
+    "name": "filhocodes/twig-stack-extension",
     "description": "Implement content stacks into Twig templates.",
     "type": "library",
     "license": "MIT",
