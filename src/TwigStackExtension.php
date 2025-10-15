@@ -102,6 +102,9 @@ final class TwigStackExtension implements ExtensionInterface
      */
     public function getOperators()
     {
-        return [];
+        return [
+            [], // Unary operators
+            [], // Binary operators
+        ];
     }
 }
