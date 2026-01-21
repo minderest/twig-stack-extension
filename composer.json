@@ -9,6 +9,9 @@
             "email": "marcos@filho.codes"
         }
     ],
+    "replace": {
+        "filhocodes/twig-stack-extension": "self.version"
+    },
     "autoload": {
         "psr-4": {
             "FilhoCodes\\TwigStackExtension\\": "src/"
